@@ -1,0 +1,37 @@
+.toe {
+background-color: #999900;
+border: 1px solid black;
+width: 50%;
+}
+
+.subtoe {
+width: 50%;
+}
+
+.toe td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: blue;
+  text-shadow: 2px 2px black;
+  color: white;
+}
+
+.subtoe td {
+  width: 50px;
+  font-size: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#topalert {
+  background-color: #336699;
+  border: 3px outset #666699;
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 25px;
+}
